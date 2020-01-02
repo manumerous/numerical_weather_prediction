@@ -1,3 +1,5 @@
+This is a fork from the numerical weather prediction course @36c3. The original can be found here: https://git.hacknology.de/projekte/wrftut
+
 # NWP/WRF tutorial
 
 Contact: [tecer](mailto:tecer@hacknology.de)
